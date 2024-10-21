@@ -14,14 +14,14 @@
 9. [Questions](#questions)
 
 ## Description
-Employee Organizer Pro is a command-line application to manage company employees, departments, and roles with ease! Built using Node.js, Inquirer, and PostgreSQL, this tool allows users to view, add, and update employee data, helping business owners efficiently organize and plan their workforce.
+Employee Organizer Pro is a command-line application for effortless management of company employees, departments, and roles. Built using Node.js, Inquirer, and PostgreSQL, this tool allows users to seamlessly  view, add, and update employee, department, and role data, helping business owners efficiently organize and plan their workforce.
 
 ## Features
-- View all employees, including their details like first name, last name, role, and department.
-- Add new employees, roles, and departments to the organization.
-- Update existing employee roles and departments.
-- View all roles and departments for a comprehensive overview of the organizational structure.
-- Easy navigation through a user-friendly command-line interface using Inquirer prompts.
+- View detailed employee information, including first name, last name, role, and department.
+- Add new employees, roles, and departments to the organization effortlessly.
+- Update existing employee roles and departments with ease.
+- Access a comprehensive overview of all roles and departments within the organization.
+- Navigate smoothly through a user-friendly command-line interface powered by Inquirer prompts.
 
 ## Installation
 To use the application, follow these steps:
@@ -35,14 +35,15 @@ To use the application, follow these steps:
 ## Usage
 To start the application, run the following command: `node index`
 
-You will be prompted with options to manage employees, departments, and roles. 
+When the application launches, you will be prompted with options to manage employees, departments, and roles.
 
-When using the application, you can:
-- Add a Department: Select this option, enter the department name, and confirm to add it.
-- Add a Role: Select this option, input the role title, salary, and the associated department ID to create a new role.
-- Add an Employee: Choose this option, enter the first name, last name, role ID, and manager ID (if applicable) to add a new employee.
-- Update an Employee Role: Select this option, provide the employee ID and new role ID to update an existing employee's role.
-- View Departments, Roles, and Employees: Select the respective options to display all current departments, roles, or employees in the database.
+- To add a department, choose the appropriate option, enter the department name, and confirm to add it.
+- To add a role, select the corresponding option, input the role title, salary, and associated department ID, and then confirm to create the new role
+- To add an employee, choose the relevant option, enter the first name, last name, role ID, and manager ID (if applicable), and confirm to add the new employee.
+- Update an employee's role, select the option to update an employee role, provide the employee ID and new role ID, and confirm the update.
+- To view all departments, select the option to display current departments in the database.
+- To see all roles, choose the option to display current roles in the database.
+- To view all employees, select the option to display current employees in the database. 
 
 ## Walkthrough
 Here’s a video walkthrough showing the functionality of the Employee Organizer Pro, including how to invoke the application, enter responses, and manage employee data: https://drive.google.com/file/d/1NwjasOxnS3NtGYbwDjg6z6LKcXdb24d_/view?usp=sharing
