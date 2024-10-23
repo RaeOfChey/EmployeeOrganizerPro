@@ -45,6 +45,12 @@ When the application launches, you will be prompted with options to manage emplo
 - To see all roles, choose the option to display current roles in the database.
 - To view all employees, select the option to display current employees in the database. 
 
+<img width="327" alt="Add an employee" src="https://github.com/user-attachments/assets/e0710b25-5864-4e5a-9e89-796420a10ad9">
+Example of adding a employee
+
+<img width="634" alt="View all employees" src="https://github.com/user-attachments/assets/c4a670cf-4207-418b-b35c-ad54a9fded55">
+Example of view all employees
+
 ## Walkthrough
 Here’s a video walkthrough showing the functionality of the Employee Organizer Pro, including how to invoke the application, enter responses, and manage employee data: https://drive.google.com/file/d/1NwjasOxnS3NtGYbwDjg6z6LKcXdb24d_/view?usp=sharing
 
