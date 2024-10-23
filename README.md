@@ -47,7 +47,7 @@ When the application launches, you will be prompted with options to manage emplo
 
 <img width="327" alt="Add an employee" src="https://github.com/user-attachments/assets/e0710b25-5864-4e5a-9e89-796420a10ad9">
 
-Example of adding a employee
+Example of adding an employee
 
 <img width="634" alt="View all employees" src="https://github.com/user-attachments/assets/c4a670cf-4207-418b-b35c-ad54a9fded55">
 
