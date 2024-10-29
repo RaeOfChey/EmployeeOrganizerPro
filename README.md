@@ -26,11 +26,11 @@ Employee Organizer Pro is a command-line application for effortless management o
 ## Installation
 To use the application, follow these steps:
 
-1. Clone the repository
-2. Navigate to the project directory: `cd employee-organizer-pro`
-3. Install the necessary dependencies: `npm install`
-4. Set up your PostgreSQL database and configure the connection settings in your database configuration file.
-5. Start the application: `node index`
+- Step 1. Clone the repository
+- Step 2. Navigate to the project directory: `cd employee-organizer-pro`
+- Step 3. Install the necessary dependencies: `npm install`
+- Step 4. Set up your PostgreSQL database and configure the connection settings in your database configuration file.
+- Step 5. Start the application: `node index`
 
 ## Usage
 To start the application, run the following command: `node index`
